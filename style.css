@@ -1,0 +1,8 @@
+html.dark body {
+    color: #fff;
+    background-color: #333;
+}
+html.light body {
+    background-color: #fff;
+    color: #333;
+}
